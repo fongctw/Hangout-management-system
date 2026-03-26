@@ -1,4 +1,4 @@
-# Welcome to Hangout-Management-System project krub
+# Welcome to Hangout-Management-System project
 
 ## Project info
 
